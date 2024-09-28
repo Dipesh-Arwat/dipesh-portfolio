@@ -16,11 +16,29 @@ const Graduation = () => {
                     </div>
 
                     <div className="graduation__description">
-                        <h1>DBJ College, Chiplun</h1>
-                        <h2><FontAwesomeIcon icon={faCalendarDays} className="internships__calendar" />&nbsp;&nbsp;2020 - 2023</h2>
-                        <p>Completed Bachelor of Science in Computer Science  from 'DBJ College', Chiplun.</p>
-                        <p>CGPA :8.30</p>
+                        <div className='graduation__main-box'>
+                            <div className='graduation__box'>
+                                <h1>DBJ College, Chiplun</h1>
+                                <h2><FontAwesomeIcon icon={faCalendarDays} className="internships__calendar" />&nbsp;&nbsp;2020 - 2023</h2>
+                                <p>Completed Bachelor of Science in Computer Science  from 'DBJ College', Chiplun.  <br /> CGPA : 8.30 </p>
+                            </div>
+
+                        </div>
+                        <div className='graduation__main-box'>
+                            <div className='graduation__box'>
+                                <h1>Full Stack Development Course</h1>
+                                <h2><FontAwesomeIcon icon={faCalendarDays} className="internships__calendar" />&nbsp;&nbsp; Completed Feb 2024</h2>
+                                <p>Felix IT System, Pune.</p>
+                            </div>
+
+                        </div>
+
+
+
+
                     </div>
+
+
                 </div>
             </div>
         </>
