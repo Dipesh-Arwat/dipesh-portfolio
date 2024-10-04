@@ -8,7 +8,7 @@ export const config = {
           description:
             'Built a feature-rich e-commerce platform using the MERN Stack. Implemented user authentication with JWT, product listing and cart functionality with real-time updates. Enhanced security measures resulted in a 20% decrease in unauthorized access attempts.',
           animationDelay: '300',
-          buttonLink: 'https://github.com/Dipesh-Arwat/E-com-project',
+          buttonLink: 'https://e-com-project-frontend.onrender.com',
           buttonText: 'CHECK OUT',
         },
         {
