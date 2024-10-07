@@ -12,6 +12,14 @@ export const config = {
           buttonText: 'CHECK OUT',
         },
         {
+          heading: 'Food Delivery Website',
+          description:
+            'Developed a full-stack food delivery application using React.js and Node.js with MongoDB. Integrated JWT-based user authentication for secure access, and created an admin dashboard for managing products and orders. The project features cart functionality, order placement, and real-time order tracking..',
+          animationDelay: '300',
+          buttonLink: 'https://food-delivery-website-frontend-ma6t.onrender.com/',
+          buttonText: 'CHECK OUT',
+        },
+        {
           heading: 'Youtube Clone',
           description:
             'Developed a fully responsive YouTube clone using React.js to simulate core features such as video display, search functionality, and video recommendations. Integrated API calls to fetch video data and provide seamless navigation between video viewing and search functionalities.',
