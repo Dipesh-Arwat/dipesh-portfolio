@@ -14,7 +14,7 @@ export const config = {
         {
           heading: 'Food Delivery Website',
           description:
-            'Developed a full-stack food delivery application using React.js and Node.js with MongoDB. Integrated JWT-based user authentication for secure access, and created an admin dashboard for managing products and orders. The project features cart functionality, order placement, and real-time order tracking..',
+            'Developed a full-stack food delivery application using React.js and Node.js with MongoDB. Integrated JWT-based user authentication for secure access, and created an admin dashboard for managing products and orders. The project features cart functionality, order placement, and real-time order tracking.',
           animationDelay: '300',
           buttonLink: 'https://food-delivery-website-frontend-ma6t.onrender.com/',
           buttonText: 'CHECK OUT',
@@ -71,12 +71,12 @@ export const config = {
           role: 'Web Developer Intern',
           introText: '',
           duration: '17/09/2024 - 17/12/2024',
-          keyPointOne: 'Successfully completed a three-month structured internship, focusing on web development tasks aligned with the organizations detailed plan.',
+          keyPointOne: 'Successfully completed a three-month structured internship, focusing on web development tasks aligned with the organization’s detailed plan.',
           keyPointTwo:
             'Worked on various tasks and responsibilities related to front-end and back-end development, based on Internship Tasks provided.',
-          keyPointThree: 'Developed and deployed real-world projects using modern web technologies such as React.js, Node.js and MongoDB.',
+          keyPointThree: 'Developed and deployed real-world projects using modern web technologies such as React.js, Node.js, and MongoDB.',
           keyPointFour:
-            'Gained hands-on experience in user authentication, REST APIs, and database management completing 10+ tasks as part of theinternship plan.',
+            'Gained hands-on experience in user authentication, REST APIs, and database management, completing 10+ tasks as part of the internship plan.',
           offsetValue: '0',
         },
         {
@@ -84,8 +84,8 @@ export const config = {
           role: 'Web Developer Intern',
           introText: '',
           duration: '13/05/2024 - 31/07/2024',
-          keyPointOne: 'Participating in a three-month internship with a focus on web design and development.',
-          keyPointTwo: 'Reporting directly to Mr. Chetan Vengurlekar, working on various web development projects remotely.',
+          keyPointOne: 'Participated in a three-month internship with a focus on web design and development.',
+          keyPointTwo: 'Reported directly to Mr. Chetan Vengurlekar, working on various web development projects remotely.',
           keyPointThree:
             'Responsible for designing and developing web interfaces, optimizing website performance, and ensuring cross-platform compatibility.',
           keyPointFour:
