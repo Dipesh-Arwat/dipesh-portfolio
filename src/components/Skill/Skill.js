@@ -170,12 +170,7 @@ const Skill = () => {
                     <li>
                       <span>GitHub</span>
                     </li>
-                    <li>
-                      <span>Express.js</span>
-                    </li>
-                    <li>
-                      <span>MongoDB</span>
-                    </li>
+
                   </ul>
                 </div>
               </div>
