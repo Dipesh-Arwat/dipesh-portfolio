@@ -12,11 +12,10 @@ const Intro = () => {
                     </div>
                     <div className="about-intro__description">
                         <p data-aos='fade-right' >I am <span>Dipesh Arwat</span></p>
-                        <p data-aos='fade-right' data-aos-delay='200'>Motivated and dedicated Full Stack Developer with hands-on experience in both front-end and back-end technologies, particularly with the MERN stack.</p>
-                        <p data-aos='fade-right' data-aos-delay='400'>I have completed internships at Sarvi Solutions and DC InfoTech Pvt Ltd.</p>
-                        <p data-aos='fade-right' data-aos-delay='600'>My skills include React.js, Node.js, MongoDB, and Express.js, and I am always eager to expand my knowledge and contribute to impactful projects.</p>
-                        <p data-aos='fade-right' data-aos-delay='800'>I’m excited to bring my expertise and passion for coding to your team.</p>
-
+                        <p data-aos='fade-right' data-aos-delay='200'>Motivated Full Stack Developer with hands-on experience in building and deploying scalable web applications using the MERN stack. Proficient
+in designing user-friendly interfaces, implementing secure authentication systems, and optimizing API performance. Dedicated to building user-
+friendly and scalable applications with a focus on performance and security.</p>
+                      
                         <div className="about-intro__emoji">:&nbsp;)</div>
                     </div>
                 </div>
