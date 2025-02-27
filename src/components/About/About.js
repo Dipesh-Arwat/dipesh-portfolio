@@ -116,6 +116,9 @@ const About = () => {
                   <span>Interned at -</span> <br />
                 </p>
                 <ul>
+                 <li>
+                    <span>Ollato Eduvercity Pvt Ltd</span> - Web Developer{" "}
+                  </li>
                   <li>
                     <span>DC Info Tech Pvt Ltd</span> - Web Developer{" "}
                   </li>
