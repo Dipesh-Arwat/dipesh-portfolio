@@ -13,7 +13,7 @@ const Internships = () => {
             <div className="internships">
                 <div className="internships__container">
                     <div className="internships__header">
-                        <h2 className="internships__number">0<span>3</span></h2>
+                        <h2 className="internships__number">0<span>2</span></h2>
                         <h1 data-aos='fade-down' data-aos-offset="0">I<span>nternships</span>.</h1>
                     </div>
                     <div className="internships__description">
